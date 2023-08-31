@@ -17,6 +17,10 @@
 - Advanced HTML -  Bradesco
 - Microsoft Word  Advanced -  Bradesco
 
+## Languages
+- Portuguese (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋 )
+- English (𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
+
 ## Learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 
