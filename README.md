@@ -9,6 +9,14 @@
 <a href="https://www.linkedin.com/in/ananda-guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Eduction
+- Graduating in Sistemas para Internet - IFPB
+- Photography with Mobile Devices - Bradesco
+- Introduction to Data Analysis - Microsoft Power BI - Bradesco
+- IT Fundamentals - Software and Hardware -  Bradesco
+- Advanced HTML -  Bradesco
+- Microsoft Word  Advanced -  Bradesco
+
 ## Learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 
