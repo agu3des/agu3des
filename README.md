@@ -16,6 +16,7 @@
 - IT Fundamentals - Software and Hardware -  Bradesco
 - Advanced HTML -  Bradesco
 - Microsoft Word  Advanced -  Bradesco
+- Linux Básico SO - NDG Linux Unhatched
 
 ## Languages
 - Portuguese (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋 )
