@@ -6,7 +6,7 @@
 ## How to reach me:
 <div>
 <a href="anandaguedesdoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ananda-guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/agu3des/"><img loading="lazy" src="https://img.shields.io/badge/instagram?logo=instagram&logoColor=white&color=e94c9e" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ananda-guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/agu3des/"><img loading="lazy" src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white&color=e94c9e" target="_blank"></a>
 </div>
 
 ## Eduction
