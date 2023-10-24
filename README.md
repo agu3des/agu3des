@@ -11,11 +11,9 @@
 
 ## Eduction
 - Graduating in Sistemas para Internet - IFPB
-- Photography with Mobile Devices - Bradesco
 - Introduction to Data Analysis - Microsoft Power BI - Bradesco
 - IT Fundamentals - Software and Hardware -  Bradesco
 - Advanced HTML -  Bradesco
-- Microsoft Word  Advanced -  Bradesco
 - NDG Linux Unhatched - Cisco Networking Academy
 - It Security - Bradesco
 
