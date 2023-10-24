@@ -16,7 +16,7 @@
 - IT Fundamentals - Software and Hardware -  Bradesco
 - Advanced HTML -  Bradesco
 - Microsoft Word  Advanced -  Bradesco
-- Linux Básico SO - NDG Linux Unhatched
+- NDG Linux Unhatched - Cisco Networking Academy
 - It Security - Bradesco
 
 ## Languages
