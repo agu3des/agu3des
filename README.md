@@ -17,6 +17,7 @@
 - Advanced HTML -  Bradesco
 - Microsoft Word  Advanced -  Bradesco
 - Linux Básico SO - NDG Linux Unhatched
+- It Security - Bradesco
 
 ## Languages
 - Portuguese (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
