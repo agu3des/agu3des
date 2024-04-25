@@ -12,7 +12,11 @@
 </div>
 
 ## Eduction
-- Graduating in Sistemas para Internet - IFPB
+- Graduating in Sistemas para Internet - Instituto Federal da Paraíba
+- English Course - Cultura Inglesa
+- French Course - Celest
+
+## Extracurricular Activity 
 - Introduction to Data Analysis - Microsoft Power BI - Bradesco
 - IT Fundamentals - Software and Hardware -  Bradesco
 - Advanced HTML -  Bradesco
@@ -20,10 +24,14 @@
 - It Security - Bradesco
 - Systems Projecs - Bradesco
 
+## Academic Activity
+1. Monitoring — Database | March 2024 | Instituto Federal da Paraíba
+
 ## Languages
 1. `Portuguese` (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
 2. `English` (𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
 3. `French` (Basic speaker)
+4. `Spanish` (Basic speaker)
 
 ## Learning:
 
