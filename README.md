@@ -5,17 +5,18 @@
 - I’m interested in developing sites, apps and games.
 - Currently I'm studying Internet Systems at IFPB.
 
-<h3 align="center">How to reach me</h3>
-<div align="center">
+<h3>How to reach me</h3>
+<div>
 <a href="anandaguedesdoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ananda-guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/agu3des/"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ananda-guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/agu3des/"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   
 </div>
 
 ## Eduction
+    http://lattes.cnpq.br/5045459158459891
 - Graduating in Sistemas para Internet - Instituto Federal da Paraíba
 - English Course - Cultura Inglesa
 - French Course - Celest
-- Spanish Course - Kultivi
+- Spanish Course - Nucli IFPB
 
 ## Extracurricular Activity 
 - Introduction to Data Analysis - Microsoft Power BI - Fundação Bradesco
@@ -28,6 +29,7 @@
 
 ## Academic Activity
 1. Monitoring — Database | March 2024 | Instituto Federal da Paraíba
+2. Research Project — DepreTracker: Rumo à aplicação final para monitoramento de sinais de depressão | July 2024 | Instituto Federal da Paraíba
 
 ## Languages
 1. `Portuguese` (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
