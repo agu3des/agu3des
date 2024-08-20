@@ -12,7 +12,6 @@
 </div>
 
 ## Eduction
-    http://lattes.cnpq.br/5045459158459891
 - Graduating in Sistemas para Internet - Instituto Federal da Paraíba
 - English Course - Cultura Inglesa
 - French Course - Celest
