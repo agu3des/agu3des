@@ -6,9 +6,9 @@
 - Currently I'm studying Internet Systems at IFPB.
 
 ## Eduction
-- Graduating in Sistemas para Internet - Instituto Federal da Paraíba
-- English Course - Cultura Inglesa
-- French Course - Celest
+- Graduating in Sistemas para Internet - [Instituto Federal da Paraíba](https://www.ifpb.edu.br/)
+- English Course - [Cultura Inglesa João Pessoa](https://www.culturainglesapb.com.br/)
+- French Course - [Celest Prefeitura de João Pessoa](https://sites.google.com/view/celestjoaopessoa/inicio)
 
 ## Extracurricular Activity 
 - Introduction to Data Analysis - Microsoft Power BI - Fundação Bradesco
