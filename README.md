@@ -20,7 +20,7 @@
 - Advanced HTML -  Fundação Bradesco
 
 ## Academic Activity
-1. Monitoring — Database | March 2024 | Instituto Federal da Paraíba
+1. Monitoring — Database | March/August 2024 | Instituto Federal da Paraíba
 2. Research Project — DepreTracker: Rumo à aplicação final para monitoramento de sinais de depressão | July 2024 | Instituto Federal da Paraíba
 3. Internship | September 2024 | UnimedJP
 
