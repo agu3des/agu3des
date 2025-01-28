@@ -49,5 +49,5 @@
 ###
 <div>
 <a href="https://github.com/agu3des">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=compact&langs_count=7&theme=dark"/>
 </div>
