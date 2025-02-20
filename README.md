@@ -1,9 +1,10 @@
 <h1 align="center">APRESENTATION</h1>
 
 
-- Hi, I’m `Ananda Guedes`!
-- I’m interested in developing sites, apps and games.
-- Currently I'm studying Internet Systems at IFPB.
+- 👩‍💻 |  Hi, I’m `Ananda Guedes`! 
+- 🖥️ |  I’m interested in developing sites, apps and games.
+- 📚  |  Currently I'm studying Internet Systems at IFPB.
+- 💼 |  Intern ate UnimedJP.
 
 ## Eduction
 - Graduating in Sistemas para Internet - [Instituto Federal da Paraíba](https://www.ifpb.edu.br/)
