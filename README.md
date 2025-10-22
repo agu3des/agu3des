@@ -1,46 +1,88 @@
-<h1 align="center">APRESENTATION</h1>
+<h1 align="center">Ananda Guedes do Ó</h1>
+<h3 align="center">Data Analyst | Security Enthusiast | SQL & BI Developer</h3>
+
+I am a professional in training focused on the critical intersection between **Data Analysis** and **Information Security**.  
+My goal is to **transform data into intelligence** in a comprehensive and secure way.
+
+**What sets me apart:**
+
+* **Data & BI:** Proficiency in **SQL/PLSQL** for insight extraction and development of monitoring dashboards using **Oracle APEX** and **Power BI**.  
+* **Security:** Practical knowledge of encryption (**symmetric/asymmetric, hash**), network security, and protocols (**SSL/TLS**) — essential for data governance.  
+* **Engineering (Fundamentals):** Experience with data integration (**Pentaho**) and architecture design to ensure secure and efficient data flow.  
+* **Development:** Strong foundation in **Python** and **Java (Spring Boot)** for automating security-related tasks and building robust back-end systems.
+
+### Connect
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agu3des)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-guedes)
+[![Lattes Badge](https://img.shields.io/badge/Lattes-FFC20E?style=for-the-badge&logo=lattes&logoColor=black)](http://lattes.cnpq.br/5045459158459891)
+
+---
+
+## Experience & Applied Projects
+
+### IT Intern | UNIMED João Pessoa (Sep/2024 – Sep/2025)
+
+* Specialist in **SQL/PLSQL** for query optimization and critical data extraction.  
+* Development of BI dashboards in **Oracle APEX** for executive monitoring.  
+* Data Integration: Utilized **Pentaho** for secure data transfer and structuring.
+
+### Featured Scholarships and Projects in Security and Data
+
+- **Dashboards for Campus Data Analysis**  
+  *Type:* Research and Extension Scholarship (IFPB)  
+  *Focus:* Data Visualization, Data Analysis, SQL  
+
+- **DepreTracker**  
+  *Type:* Scientific Initiation (PIBIC/IFPB)  
+  *Focus:* Monitoring Depression Indicators  
+
+- **SafeHaven & NuageSecurise**  
+  *Type:* Personal Security Project  
+  *Focus:* Python, Cryptography (MD5, DES, Diffie-Hellman)  
+
+- **Runner & Disaster**  
+  *Type:* Web Development Project  
+  *Focus:* Java, Spring Boot, JPA, SQL  
 
 
-- 👩‍💻 |  Hi, I’m `Ananda Guedes`! 
-- 🖥️ |  I’m interested in developing sites, apps and games.
-- 📚  |  Currently I'm studying Internet Systems at IFPB.
-- 💼 |  Intern ate UnimedJP.
+## Technical Stack (Data & Security)
 
-## Eduction
-- Graduating in Sistemas para Internet - [Instituto Federal da Paraíba](https://www.ifpb.edu.br/)
-- English Course - [Cultura Inglesa João Pessoa](https://www.culturainglesapb.com.br/)
-- French Course - [Celest Prefeitura de João Pessoa](https://sites.google.com/view/celestjoaopessoa/inicio)
+| Area | Technologies / Concepts | Security/Data Focus |
+| :--- | :--- | :--- |
+| **Database** | **SQL**, **PL/SQL**, Oracle, PostgreSQL, Modeling | Performance, Integrity, Access Control |
+| **Business Intelligence** | **Oracle APEX**, **Power BI**, Pentaho | Strategic Visualization and ETL Processes |
+| **Security** | Cryptography, IT Security, SSL/TLS, Linux | Data Protection and Network Fundamentals |
+| **Development** | **Python**, Java (Spring Boot), Kotlin, Git/GitHub | Automation and Secure System Development |
 
-## Extracurricular Activity 
-- Introduction to Data Analysis - Microsoft Power BI - Fundação Bradesco
-- Data Modeling- Fundação Bradesco
-- IT Fundamentals - Software and Hardware -  Fundação Bradesco
-- IT Security - Fundação Bradesco
-- NDG Linux Unhatched - Cisco Networking Academy
-- Systems Projecs - Fundação Bradesco
-- Advanced HTML -  Fundação Bradesco
+#### Key Tools Highlighted
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,django,linux,bash,git,docker,gcp,java,spring,javascript,react,angular,tailwind,npm,figma,python&perline=10)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 
-## Academic Activity
-1. Monitoring — Database | March/August 2024 | Instituto Federal da Paraíba
-2. Research Project — DepreTracker: Rumo à aplicação final para monitoramento de sinais de depressão | July 2024 | Instituto Federal da Paraíba
-3. Internship | September 2024 | UnimedJP
 
-## Languages
+---
+
+## Education & Certifications
+
+### Education
+* **Systems for the Internet** — [Federal Institute of Paraíba (IFPB)](https://www.ifpb.edu.br/)
+
+### Certifications
+* **Data Modeling** — Fundação Bradesco  
+* **Introduction to Data Analysis (Power BI)** — Fundação Bradesco  
+* **IT Security** and **Digital Certification SSL/TLS** (Focus on Data Protection)  
+* **Santander Coders 2024 — Back-End** — Ada Tech Community  
+* **NDG Linux Unhatched** — Cisco Networking Academy
+  
+### Languages
 1. `Portuguese` (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
-2. `English` (𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
-3. `French` (Basic speaker)
+2. `English` (𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝗌𝗉𝖾𝖺𝗄𝖾𝗋) — [Cultura Inglesa João Pessoa](https://www.culturainglesapb.com.br/)
+3. `French` (Basic speaker) — [Celest Prefeitura de João Pessoa](https://sites.google.com/view/celestjoaopessoa/inicio)
 4. `Spanish` (Basic speaker)
 
-
-## Learning:
-#### Programming:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/> <img loading="lazy" src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="30" height="30"/> <img loading="lazy" src="https://devicon-website.vercel.app/api/android/original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30" height="30"/> 
-
-#### Applications
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="30" height="30"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/> <img loading="lazy" src="https://devicon-website.vercel.app/api/bash/original.svg" width="30" height="30"/> <img loading="lazy" src="https://devicon-website.vercel.app/api/androidstudio/original.svg" width="30" height="30"/>
+---
 
 ###
-<div>
-<a href="https://github.com/agu3des">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=agu3des&theme=transparent)](https://github.com/agu3des/github-readme-stats)
