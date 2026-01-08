@@ -35,7 +35,7 @@ My goal is to **transform data into intelligence** in a comprehensive and secure
 
 - **DepreTracker**  
   *Type:* Scientific Initiation (PIBIC/IFPB)  
-  *Focus:* Monitoring Depression Indicators  
+  *Focus:* Extracting data for monitoring depression indicators  
 
 - **SafeHaven & NuageSecurise**  
   *Type:* Personal Security Project  
@@ -69,11 +69,14 @@ My goal is to **transform data into intelligence** in a comprehensive and secure
 * **Systems for the Internet** — [Federal Institute of Paraíba (IFPB)](https://www.ifpb.edu.br/)
 
 ### Certifications
+* **Fundamentals of Data Analysis** — Cisco Networking Academy
+* **Introduction to Data Science** — Cisco Networking Academy
 * **Data Modeling** — Fundação Bradesco  
 * **Introduction to Data Analysis (Power BI)** — Fundação Bradesco  
-* **IT Security** and **Digital Certification SSL/TLS** (Focus on Data Protection)  
-* **Santander Coders 2024 — Back-End** — Ada Tech Community  
+* **IT Security** — Fundação Bradesco 
+* **Digital Certification SSL/TLS** — Udemy
 * **NDG Linux Unhatched** — Cisco Networking Academy
+* **Santander Coders 2024 — Back-End** — Ada Tech Community  
   
 ### Languages
 1. `Portuguese` (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
