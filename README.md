@@ -21,7 +21,7 @@ My goal is to **transform data into intelligence** in a comprehensive and secure
 
 ## Experience & Applied Projects
 
-### IT Intern | UNIMED João Pessoa (Sep/2024 – Sep/2025)
+### IT Intern | UNIMED João Pessoa (Sep/2024 – Jan/2026)
 
 * Specialist in **SQL/PLSQL** for query optimization and critical data extraction.  
 * Development of BI dashboards in **Oracle APEX** for executive monitoring.  
