@@ -1,17 +1,16 @@
 <h1 align="center">Ananda Guedes do Ó</h1>
-<h3 align="center">Data Analyst | Security Enthusiast | SQL & BI Developer</h3>
+<h3 align="center">Backend Developer | Data & BI Analyst | Security Enthusiast</h3>
 
-I am a professional in training focused on the critical intersection between **Data Analysis** and **Information Security**.  
-My goal is to **transform data into intelligence** in a comprehensive and secure way.
+<p align="center">
+  I am a software developer and researcher focused on the powerful intersection of <strong>Robust Backend Development</strong>, <strong>Data Intelligence (BI/Analytics)</strong>, and <strong>Information Security</strong>.
+</p>
 
 **What sets me apart:**
+* **Backend Architecture:** Solid experience building scalable systems using **Python (Django)** and **Go (Golang)**, focusing on microservices, REST APIs, and gRPC.
+* **Data & Analytics:** Proficiency in **SQL/PLSQL**, ETL pipelines (**Pentaho**), database modeling, and designing complex **KPIs/Learning Analytics** dashboards via **Oracle APEX** and **Power BI**.
+* **Security & Infrastructure:** Practical application of cryptography, secure communication protocols (**SSL/TLS**), and data governance principles to ensure architecture integrity.
 
-* **Data & BI:** Proficiency in **SQL/PLSQL** for insight extraction and development of monitoring dashboards using **Oracle APEX** and **Power BI**.  
-* **Security:** Practical knowledge of encryption (**symmetric/asymmetric, hash**), network security, and protocols (**SSL/TLS**) — essential for data governance.  
-* **Engineering (Fundamentals):** Experience with data integration (**Pentaho**) and architecture design to ensure secure and efficient data flow.  
-* **Development:** Strong foundation in **Python** and **Java (Spring Boot)** for automating security-related tasks and building robust back-end systems.
-
-### Connect
+### Connect With Me
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agu3des)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-guedes)
@@ -19,73 +18,77 @@ My goal is to **transform data into intelligence** in a comprehensive and secure
 
 ---
 
-## Experience & Applied Projects
+## 💼 Professional Experience & Applied Projects
 
-### IT Intern | UNIMED João Pessoa (Sep/2024 – Jan/2026)
+### Backend Researcher | Polo de Inovação IFPB (Apr/2026 – Present)
+* Developing secure and scalable backend ecosystems using **Python** and **Django**.
+* Modeling and implementing complex institutional **KPIs and metrics** tailored for Learning Analytics.
+* Building interactive and dynamic data-driven interfaces using **Django Templates** and **Alpine.js**.
 
-* Specialist in **SQL/PLSQL** for query optimization and critical data extraction.  
-* Development of BI dashboards in **Oracle APEX** for executive monitoring.  
-* Data Integration: Utilized **Pentaho** for secure data transfer and structuring.
-
-### Featured Scholarships and Projects in Security and Data
-
-- **Dashboards for Campus Data Analysis**  
-  *Type:* Research and Extension Scholarship (IFPB)  
-  *Focus:* Data Visualization, Data Analysis, SQL  
-
-- **DepreTracker**  
-  *Type:* Scientific Initiation (PIBIC/IFPB)  
-  *Focus:* Extracting data for monitoring depression indicators  
-
-- **SafeHaven & NuageSecurise**  
-  *Type:* Personal Security Project  
-  *Focus:* Python, Cryptography (MD5, DES, Diffie-Hellman)  
-
-- **Runner & Disaster**  
-  *Type:* Web Development Project  
-  *Focus:* Java, Spring Boot, JPA, SQL  
-
-
-## Technical Stack (Data & Security)
-
-| Area | Technologies / Concepts | Security/Data Focus |
-| :--- | :--- | :--- |
-| **Database** | **SQL**, **PL/SQL**, Oracle, PostgreSQL, Modeling | Performance, Integrity, Access Control |
-| **Business Intelligence** | **Oracle APEX**, **Power BI**, Pentaho | Strategic Visualization and ETL Processes |
-| **Security** | Cryptography, IT Security, SSL/TLS, Linux | Data Protection and Network Fundamentals |
-| **Development** | **Python**, Java (Spring Boot), Kotlin, Git/GitHub | Automation and Secure System Development |
-
-#### Key Tools Highlighted
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,django,linux,bash,git,docker,gcp,java,spring,javascript,react,angular,tailwind,npm,figma,python&perline=10)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-
+### IT & Data Intern | UNIMED João Pessoa (Sep/2024 – Jan/2026)
+* Specialized in **SQL/PLSQL** for complex database query optimization, data extraction, and auditing.
+* Developed corporate BI dashboards and analytics interfaces in **Oracle APEX** for executive decision-making.
+* Managed data flow, system modules integration (**TOTVS ERP**), and built ETL pipelines using **Pentaho (PDI)**.
 
 ---
 
-## Education & Certifications
+## 🔬 Academic Research & Open Source Projects
+
+* **Dashboards for Campus Data Analysis (DIPPED/IFPB)**  
+  *Role:* Research & Extension Fellowship (Aug/2025 – Present)  
+  *Focus:* Transforming institutional data into web-based analytical dashboards using SQL and Python.
+  
+* **DepreTracker (PIBIC/IFPB)**  
+  *Role:* Scientific Initiation Fellow (Jul/2024)  
+  *Focus:* Data extraction, processing, and monitoring models for health indicators.
+
+* **clusterization_enem** `Data Science`  
+  *Focus:* Exploratory data analysis and machine learning clustering models evaluating public education data.
+
+* **microservices & microservices-proto** `Backend / Architecture`  
+  *Focus:* Building scalable microservices using **Go (Golang)** and Protocol Buffers (gRPC).
+
+* **NuageSecurise** `Security`  
+  *Focus:* Python-based cryptography implementations exploring network security protocols.
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies & Tools | Focus & Application |
+| :--- | :--- | :--- |
+| **Backend & Automation** | **Python**, **Go (Golang)**, Django, Alpine.js, Java (Spring Boot) | Scalable APIs, Microservices, Automation |
+| **Data & Databases** | **SQL**, **PL/SQL**, PostgreSQL, Oracle, MongoDB, Firebase | Relational Modeling, Optimization, ETL |
+| **Business Intelligence** | **Oracle APEX**, **Power BI**, Pentaho (PDI), Pandas | Analytics, Metrics/KPIs, Data Engineering |
+| **Security & Infra** | Cryptography, SSL/TLS, Linux (Bash), Docker, Git | System Hardening, CI/CD, Data Protection |
+
+#### Core Toolbox Highlight
+[![My Skills](https://skillicons.dev/icons?i=python,django,go,postgres,mysql,oracle,linux,bash,git,docker,html,css,javascript,java,spring&perline=15)](https://skillicons.dev)
+
+---
+
+## 🎓 Education & Certifications
 
 ### Education
-* **Systems for the Internet** — [Federal Institute of Paraíba (IFPB)](https://www.ifpb.edu.br/)
+* **B.S. in Systems for the Internet** — [Federal Institute of Paraíba (IFPB)](https://www.ifpb.edu.br/)  
+  *Highlight:* Academic Tutor (Monitoria) for **Database I** (2024) and **Script Languages** (2025).
 
-### Certifications
-* **Fundamentals of Data Analysis** — Cisco Networking Academy
-* **Introduction to Data Science** — Cisco Networking Academy
-* **Data Modeling** — Fundação Bradesco  
-* **Introduction to Data Analysis (Power BI)** — Fundação Bradesco  
-* **IT Security** — Fundação Bradesco 
-* **Digital Certification SSL/TLS** — Udemy
+### Key Certifications
+* **Santander Coders 2024 (Back-End)** — Ada Tech
+* **Fundamentals of Data Analysis & Intro to Data Science** — Cisco Networking Academy
+* **Data Modeling & Power BI** — Fundação Bradesco
+* **Digital Certification SSL/TLS & Git/GitHub Bootcamp** — Udemy
 * **NDG Linux Unhatched** — Cisco Networking Academy
-* **Santander Coders 2024 — Back-End** — Ada Tech Community  
-  
-### Languages
-1. `Portuguese` (𝖭𝖺𝗍𝗂𝗏𝖾 𝗌𝗉𝖾𝖺𝗄𝖾𝗋)
-2. `English` (𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝗌𝗉𝖾𝖺𝗄𝖾𝗋) — [Cultura Inglesa João Pessoa](https://www.culturainglesapb.com.br/)
-3. `French` (Basic speaker) — [Celest Prefeitura de João Pessoa](https://sites.google.com/view/celestjoaopessoa/inicio)
-4. `Spanish` (Basic speaker)
+
+### 🗣️ Languages
+* **Portuguese:** Native
+* **English:** Advanced (Cultura Inglesa)
+* **French:** Basic (CELEST)
+* **Spanish:** Basic
 
 ---
 
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Ananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=agu3des&theme=transparent)](https://github.com/agu3des/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agu3des&layout=donut&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agu3des&theme=transparent" width="45%" />
+</p>
